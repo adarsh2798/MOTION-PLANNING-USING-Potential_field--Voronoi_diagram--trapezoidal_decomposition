@@ -24,7 +24,7 @@ Here, **q** is the current configuration/posiotion of robot, **D_i(q)** is dista
 Below is the environment in which APF was implemenetd, and the resulting Potential field generated is also shown.
 
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/gazebo_world.png" />
 </p>
 
 

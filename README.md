@@ -63,5 +63,5 @@ To generate the trapezoidal decomposition of the workspace, **SWEEP LINE** algor
 Below image shows decompositon obtained in the GAZEBO WORLD I used for simulation. Further the path taken by robot in simulation is also shown.
 
 <p align="center">
-  <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/GVD_path.png" />
+  <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/trapez_run_latest.png" />
 </p>

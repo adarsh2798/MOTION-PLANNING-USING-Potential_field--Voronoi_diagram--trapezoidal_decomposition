@@ -21,7 +21,7 @@ The potential functions chosen for this case are:
 
 Here, **q** is the current configuration/posiotion of robot, **D_i(q)** is distance to obstacle-i, and **Q** is a threshold on when to use the repulsive threshold.
 
-Below is the environment in which APF was implemenetd, and the resulting Potential field generated is also shown.
+Below is the environment in which APF was implemenetd, and the resulting Potential field generated is also shown. **(GOAL=(0,4))**
 
 <p align="center">
   <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/gazebo_world.png" />
@@ -32,3 +32,6 @@ Below is the environment in which APF was implemenetd, and the resulting Potenti
 <p align="center">
   <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/quiver.png" />
 </p>
+
+## SIMULATION OF APF
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

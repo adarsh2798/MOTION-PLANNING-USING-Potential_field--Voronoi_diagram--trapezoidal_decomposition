@@ -34,4 +34,4 @@ Below is the environment in which APF was implemenetd, and the resulting Potenti
 </p>
 
 ## SIMULATION OF APF
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/succecssful_APF_RUN_with_NO_smoth_diff_STARTPOINT.gif)

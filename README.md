@@ -30,5 +30,5 @@ Below is the environment in which APF was implemenetd, and the resulting Potenti
 
 
 <p align="center">
-  <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/vector_field_of_APF_world.png" />
+  <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/quiver.png" />
 </p>

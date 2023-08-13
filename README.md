@@ -65,3 +65,7 @@ Below image shows decompositon obtained in the GAZEBO WORLD I used for simulatio
 <p align="center">
   <img src="https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/trapez_run_latest.png" />
 </p>
+
+## SIMULATION OF Trapezoidal Decomposition
+
+![Alt Text](https://github.com/adarsh2798/MOTION-PLANNING-USING-Potential_field--Voronoi_diagram--trapezoidal_decomposition/blob/main/assignment2/simulation_results/GVD_RUN.gif)
